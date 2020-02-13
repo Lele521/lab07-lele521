@@ -1,6 +1,7 @@
 # cs56 w20 lab07
 
-Starter Code
+Repo link: https://github.com/Lele521/lab07-lele521/edit/master/README.md
+Heroku link: https://cs56-w20-lab07-lele521.herokuapp.com
 
 # Configuration for OAuth
 
